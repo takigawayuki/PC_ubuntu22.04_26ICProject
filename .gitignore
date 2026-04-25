@@ -1,0 +1,17 @@
+# 数据集
+datasets/
+data/
+
+# 工具链（重点！）
+rknn-toolkit2/
+
+# Python
+__pycache__/
+*.pyc
+
+# 构建
+build/
+dist/
+
+# 日志
+*.log
