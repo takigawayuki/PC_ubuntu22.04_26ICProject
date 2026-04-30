@@ -4,6 +4,7 @@ data/
 
 # 工具链（重点！）
 rknn-toolkit2/
+rknn-toolkit2-1.5.0/
 
 # Python
 __pycache__/

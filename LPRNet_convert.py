@@ -3,7 +3,7 @@ from rknn.api import RKNN
 
 DATASET_PATH = '../model/dataset.txt'
 # DEFAULT_RKNN_PATH = '../model/lprnet.rknn'
-DEFAULT_RKNN_PATH = 'green_re_run1/green_re_run1.rknn'
+DEFAULT_RKNN_PATH = 'RKNN_1.5.0/blue_re_run1.rknn'
 DEFAULT_QUANT = True
 
 def parse_arg():
