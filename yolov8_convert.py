@@ -3,7 +3,7 @@ from rknn.api import RKNN
 
 DATASET_PATH = '../../../datasets/COCO/coco_subset_20.txt'
 # DEFAULT_RKNN_PATH = '../model/yolov8.rknn'
-DEFAULT_RKNN_PATH = 'RKNN_1.5.0/yolov8n.rknn'
+DEFAULT_RKNN_PATH = 'RKNN_NEW/yolov8n_nms.rknn'
 
 DEFAULT_QUANT = True
 
